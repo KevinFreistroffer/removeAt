@@ -15,7 +15,7 @@ const removeAt = require('removeat');
 
 let nums = [1,3,5,7,9];
 let newNums = removeAt(nums, 2);
-// => [1,3, 7,9]
+// => [1,3,7,9]
 ```
 
 ## API
